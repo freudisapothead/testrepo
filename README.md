@@ -1,7 +1,7 @@
-# testrepo
+# Repository for transforming .csv and .xlsx files to .sql files.
 
-## Deneme
+## This Repo contains Jupyter Notebooks and (meybe) some sample data to work with.
 
-### DENEME
+### Notes
 
 It's a markdown file in this repository
